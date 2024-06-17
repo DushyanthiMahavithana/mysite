@@ -22,7 +22,7 @@ function About() {
         I like to think of myself as a digital explorer, 
         constantly navigating the fascinating world of computer science.
         By day, I'm a passionate programmer and  I'm always excited about new cool things happening in the tech world 
-        and try to keep up with the latest advancements and innovations.
+        and try to keep up with the latest advancements and innovations
         <br></br>
         <br></br>Full Name : Dushyanthi Nethmini Bhagya Mahavithana
         <br></br>Date of Birth : 2000 November 08 
